@@ -28,7 +28,7 @@
 <a href="https://codesandbox.com/adebayo tunmise grace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="adebayo tunmise grace" height="30" width="40" /></a>
 <a href="https://instagram.com/gracias_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gracias_tech" height="30" width="40" /></a>
 <a href="https://medium.com/@codequeen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@codequeen" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UC8zuvG4l7HmB1P5js_SsQCQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adebayo tunmise grace" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC8zuvG4l7HmB1P5js_SsQCQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adebayo tunmise grace" height="30" width="40" /></a>
 <a href="https://github.com/specialGrace" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="specialGrace" height="30" width="40" /></a>
 </p>
 
