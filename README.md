@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/gracias_tech" target="blank"><img src="https://img.shields.io/twitter/follow/gracias_tech?logo=twitter&style=for-the-badge" alt="gracias_tech" /></a> </p>
 
-- 🔭 I’m currently working on **my blog**
+- 🔭 I’m currently working on **my personal blog**
 
-- 🌱 I’m currently learning **next.js**
-
-- 💬 Ask me about **react, nextjs**
+- 💬 Ask me about **reactjs, nextjs**
 
 - 📫 How to reach me **tunmiseadebayo9@gmail.com**
 
